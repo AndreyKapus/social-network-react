@@ -1,4 +1,4 @@
-import PropTypes from "prop-types";
+// import PropTypes from "prop-types";
 
 import UserInfo from "../UserInfo/UserInfo"
 import UserStats from "../UserStats/UserStats"
@@ -18,4 +18,4 @@ const UserCard = ({user}) => {
 
 export default UserCard;
 
-UserCard.propTypes = {}
+// UserCard.propTypes = {}
